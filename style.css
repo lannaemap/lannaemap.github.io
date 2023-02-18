@@ -1,0 +1,74 @@
+* {
+    background-color: black;
+}
+
+#Foto{
+    text-align: right;
+    font-size: 35px;
+    margin-right: 242px;
+    margin-top: 150px;
+}
+#Portfólio {
+    font-size: 17px;
+}
+
+body {
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body a {
+    text-decoration: none;
+    color: white;
+
+
+}
+
+#lanna {
+
+    font-size: 50px;
+    background-color: #58BC82;
+    border-radius: 100px;
+    text-align: center;
+    padding: 30px;
+}
+
+#fotoreal {
+    text-align: center;
+    margin-left: 350px;
+
+
+
+}
+
+
+.lista li {
+
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    list-style: none;
+    margin: 10px;
+ 
+}
+
+a:hover {
+    background-color: #645986;
+
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+
+
+}
+
+div.box {
+    width: 500px;
+    display: inline-block;
+    align-items: center;
+}
+.lista {
+    border-bottom: 500px;
+}
